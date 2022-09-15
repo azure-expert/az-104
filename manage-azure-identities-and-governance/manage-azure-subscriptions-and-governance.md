@@ -1,5 +1,6 @@
 ## Configure and manage Azure Policy
 
+- Configure and manage Azure Policy
 - Configure resource locks
 - Apply and manage tags on resources
 - Manage resource groups

@@ -1,5 +1,6 @@
 ## Create users and groups
 
+- Create users and groups
 - Manage licenses in Azure AD
 - Create administrative units
 - Manage user and group properties
