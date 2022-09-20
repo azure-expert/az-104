@@ -8,6 +8,23 @@ Todos os usuários que desejam acessar os recursos do Azure precisam de uma cont
 
 - **Usuário convidado:** As contas de usuário convidado são definidas fora do Azure. Entre os exemplos, estão contas de outros provedores de nuvem e contas Microsoft, como uma conta do Xbox LIVE. A origem das contas de usuário convidado é o usuário convidado. As contas de usuário convidado são úteis quando fornecedores externos ou terceirizados precisam acessar seus recursos do Azure.
 
+### Considerações sobre a escolha de contas de usuário
+- **Considere onde os usuários são definidos.** Determine onde os usuários estão definidos. Todos os usuários são definidos em sua organização do Azure AD ou alguns usuários são definidos em instâncias externas do Azure AD? Você tem usuários externos à sua organização? É comum que as empresas deem suporte a dois ou mais tipos de conta na infraestrutura delas.
+
+- **Considere o suporte para colaboradores externos.** Permita que colaboradores externos acessem recursos do Azure em sua organização dando suporte ao tipo de conta de usuário convidado. Quando o colaborador externo não exige mais acesso, você pode remover a conta de usuário e os privilégios de acesso dessa pessoa.
+
+- **Considere uma combinação de contas de usuário.** Implemente os tipos de conta de usuário que permitem que sua organização atenda aos requisitos de negócios. Dê suporte a contas de usuário de identidade sincronizadas por diretório para usuários definidos no Windows Server Active Directory. Dê suporte a identidades de nuvem para usuários definidos em sua estrutura interna do Azure AD ou para o usuário definido em uma instância externa do Azure AD.
+
+### Adicionar um novo usuário
+Para adicionar um novo usuário, siga estas etapas:
+
+1- Entre no portal do Azure na função Administrador de Usuário para a organização.
+
+2- Procure e selecione Azure Active Directory em qualquer página.
+
+3- Selecione Todos os usuários e, em seguida, selecione Novo usuário.
+
+![azure](images/azureimage02.png) 
 
 
 
