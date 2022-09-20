@@ -1,6 +1,6 @@
 ## Azure Administrator - AZ 104
 
-O exame [Azure Administrator](https://docs.microsoft.com/pt-br/certifications/exams/az-104) este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar identidades e governança do Azure; implantar e gerenciar armazenamento; implantar e gerenciar recursos de computação do Azure; configurar e gerenciar redes virtuais; e monitorar e fazer backup de recursos do Azure.a
+O exame [Azure Administrator](https://docs.microsoft.com/pt-br/certifications/exams/az-104) este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar identidades e governança do Azure; implantar e gerenciar armazenamento; implantar e gerenciar recursos de computação do Azure; configurar e gerenciar redes virtuais; e monitorar e fazer backup de recursos do Azure.ab
 
 ## Habilidades medidas
 A versão em inglês deste exame foi atualizada em 5 de maio de 2022. Baixe o guia de estudo na caixa "Dica" anterior para obter mais detalhes sobre as habilidades medidas neste exame.
