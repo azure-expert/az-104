@@ -1,24 +1,16 @@
-name: Some workflow
-
-on:
-  issue_comment:
-    types: [created]
+on: pull_request
 
 jobs:
-  comment:
-    if: contains(github.event.comment.body, 'special string')
-
+  example_comment_pr:
     runs-on: ubuntu-latest
-
+    name: An example job to comment a PR
     steps:
-      - name: Add comment to PR
-        env:
-          URL: ${{ github.event.issue.comments_url }}
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Comment PR
+        uses: thollander/actions-comment-pull-request@v1
+        with:
+          message: |
+            Hello world ! :wave:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          curl \
-            -X POST \
-            $URL \
-            -H "Content-Type: application/json" \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            --data '{ "body": "blah blah" }'
