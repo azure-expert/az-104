@@ -26,6 +26,21 @@ Para adicionar um novo usuário, siga estas etapas:
 
 ![azure](images/azureimage02.png) 
 
+Na página do Usuário, insira as informações deste usuário:
+
+Nome. Obrigatórios. O primeiro e último nome do novo usuário. Por exemplo, Mary Parker.
+
+Nome de usuário. Obrigatórios. O nome de usuário do novo usuário. Por exemplo, mary@contoso.com.
+
+A parte do domínio do nome de usuário deve usar o nome de domínio padrão inicial, <yourdomainname>.onmicrosoft.com, ou um nome de domínio personalizado, como contoso.com. Para obter mais informações sobre como criar um nome de domínio personalizado, consulte Como adicionar um nome de domínio personalizado ao portal do Active Directory do Azure.
+
+Grupos. Opcionalmente, você pode adicionar o usuário a um ou mais grupos existentes. Você também pode adicionar o usuário aos grupos posteriormente. Para obter mais informações sobre como criar grupos do Azure AD, confira Criar um grupo básico e adicionar membros usando o Azure Active Directory.
+
+Função do diretório: se precisar de permissões administrativas do Azure AD para o usuário, você poderá adicioná-las a uma função do Azure AD. Você pode atribuir o usuário a um Administrador global ou a uma ou mais das funções limitadas de administrador no Azure AD. Para mais informações sobre como atribuir funções, consulte Como atribuir funções aos usuários.
+
+Informações do trabalho: você pode adicionar mais informações sobre o usuário nesse ponto ou fazer isso mais tarde. Para obter mais informações sobre como adicionar informações do usuário, consulte Como adicionar ou alterar as informações do perfil do usuário.
+
+Copie a senha gerada automaticamente que foi fornecida na caixa Senha. Você precisará fornecer essa senha ao usuário na primeira vez que entrar.
 
 
 
