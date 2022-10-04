@@ -6,3 +6,7 @@
 - Inclui serviços de federação e muitos serviços de terceiros (como o Facebook)
 - Os usuários e grupos do Azure AD são criados em uma estrutura simples e não há (UOs), unidades organizacionais ou (GPSs) Objetos de Plitica de Grupo.
 
+## Tipos de Licenca do Azure AD
+Tomar cuidado com cada funcionalidade que existem entre Premium P1 e Premium P2 (mais usados em producao).
+
+![azure](images/azure.png) 
