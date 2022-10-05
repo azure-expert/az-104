@@ -4,6 +4,12 @@
 - os usuarioos excluidos podem ser restaurados por 30 dias.
 - as informacoes de login e log de auditoria estao disponiveis.
 
+### Criar contas em massa (Bul Create)
+Criar contas de usuarios em massa dentro do sistema.
+
+- O Azure AD da suporte e atualizacoes em massa de usuarios e membros do grupo.
+- crie o modelo de valores separados por virgula (CSV) que voce pode baixar do portal.
+- deve estar conectado como administrador global ou administrador de usuario.
 
 
 
