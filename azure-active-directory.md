@@ -1,16 +1,30 @@
-## Gereciamento de contas e usuario
+### Gereciamento de contas e usuario
 - deve ser administrador global ou administrador de usuarios para gerenciar usuarios.
 - o perfil do usuario (foto, trabalho, informacoes de contato) sao opcionais.
 - os usuarioos excluidos podem ser restaurados por 30 dias.
 - as informacoes de login e log de auditoria estao disponiveis.
 
-### Criar contas em massa (Bul Create)
+### Criar contas em massa (Bulk Create)
 Criar contas de usuarios em massa dentro do sistema.
 
 - O Azure AD da suporte e atualizacoes em massa de usuarios e membros do grupo.
 - crie o modelo de valores separados por virgula (CSV) que voce pode baixar do portal.
 - deve estar conectado como administrador global ou administrador de usuario.
 
+### Criar contas de grupo
+Existem dois tipos de grupos que sao relevantes.
+
+#### Tipos de Grupos:
+- Grupos de seguranca 
+  - nao tem exclusividade de expeiracao
+  - apenas para usuarios
+- Grupos do Microsoft 365 
+  - podem see programados para serem excluidos em 30 dias, expirar dentro desse periodo
+
+#### Tipos de Atribuicao
+- Atribuido
+- Usuario dinamico
+- Dispositivo dinamico (somente grupos de seguranca)
 
 
 
@@ -19,7 +33,8 @@ Criar contas de usuarios em massa dentro do sistema.
 
 
 
-## AD DS vs Azure Active Directory
+
+### AD DS vs Azure Active Directory
 
 - O Azure AD  principalmente uma solução de identidade e  projetado para comunicações HTTP e HTTPS.
 - Consultado usando o API REST sobre HTTP e HTTPS, em vez de LDAP.
