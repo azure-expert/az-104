@@ -1,3 +1,18 @@
+## Gereciamento de contas e usuario
+- deve ser administrador global ou administrador de usuarios para gerenciar usuarios.
+- o perfil do usuario (foto, trabalho, informacoes de contato) sao opcionais.
+- os usuarioos excluidos podem ser restaurados por 30 dias.
+- as informacoes de login e log de auditoria estao disponiveis.
+
+
+
+
+
+
+
+
+
+
 ## AD DS vs Azure Active Directory
 
 - O Azure AD  principalmente uma solução de identidade e  projetado para comunicações HTTP e HTTPS.
@@ -10,3 +25,4 @@
 Tomar cuidado com cada funcionalidade que existem entre Premium P1 e Premium P2 (mais usados em producao).
 
 ![azure](images/azure.png) 
+
