@@ -28,7 +28,7 @@ Execute `terraform init` para inicializar a implantação do Terraform. Esse com
 
 - Execute o comando `terraform plan` para criar um plano de execução.
 
-`terraform plan -out main.tfplan`\
+`terraform plan -out main.tfplan`
 
 OBS: O comando `terraform plan` cria um plano de execução, mas não o executa. Em vez disso, ele determina quais ações são necessárias para criar a configuração especificada em seus arquivos de configuração. Esse padrão permite que você verifique se o plano de execução corresponde às suas expectativas antes de fazer qualquer alteração nos recursos reais. O parâmetro opcional `-out` permite que você especifique um arquivo de saída para o plano. Usar o parâmetro `-out` garante que o plano que você examinou seja exatamente o que é aplicado.
 
