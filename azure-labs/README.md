@@ -7,6 +7,20 @@ The Azure CLI's default authentication method for logins uses a web browser and 
 az login
 ```
 
+## What you do will create?
+Neste lab, você aprenderá como:
+
+- Criar uma rede virtual
+- Criar uma sub-rede
+- Criar um endereço IP público
+- Criar um grupo de segurança de rede e uma regra de entrada SSH
+- Criar uma placa de adaptador de rede virtual
+- Conectar o grupo de segurança de rede ao adaptador de rede
+- Criar uma conta de armazenamento para diagnóstico de inicialização
+- Criar chave SSH
+- Criar uma máquina virtual
+- Usar SSH para se conectar à máquina virtual
+
 ## How to access the VM via SSH
 Follow the below steps to connect on the virtual instance.
 
