@@ -6,6 +6,7 @@ The Azure CLI's default authentication method for logins uses a web browser and 
 ```
 az login
 ```
+If the CLI can open your default browser, it will initiate authorization code flow and open the default browser to load an Azure sign-in page.
 
 ## What you do will create?
 Neste lab, você aprenderá como:
