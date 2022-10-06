@@ -7,7 +7,7 @@ The Azure CLI's default authentication method for logins uses a web browser and 
 az login
 ```
 
-# How to access the VM
+## How to access the VM via SSH
 Follow the below steps to connect on the virtual instance.
 
 - Execute a saída do terraform para obter a chave privada SSH e salvá-la em um arquivo.
