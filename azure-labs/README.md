@@ -66,3 +66,26 @@ terraform plan -destroy -out main.destroy.tfplan
 
 O comando `terraform plan` cria um plano de execução, mas não o executa. Em vez disso, ele determina quais ações são necessárias para criar a configuração especificada em seus arquivos de configuração. Esse padrão permite que você verifique se o plano de execução corresponde às suas expectativas antes de fazer qualquer alteração nos recursos reais.
 O parâmetro opcional `-out` permite que você especifique um arquivo de saída para o plano. Usar o parâmetro `-out` garante que o plano que você examinou seja exatamente o que é aplicado.
+
+## Installing Docker on Azure VMs
+We have successfully logged in. Now start the Docker installation. Firstly, update our package manager with `sudo apt-get update`.
+
+- Type in the command line step by step.
+
+```
+sudo apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg-agent \
+    software-properties-common
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo apt-key fingerprint 0EBFCD88
+sudo add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+```
+
+When the installation is complete, test it by typing `docker version` or `sudo docker run hello-world`.
