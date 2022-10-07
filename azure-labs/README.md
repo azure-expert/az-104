@@ -14,7 +14,7 @@ Neste lab, você aprenderá como:
 - Criar uma rede virtual
 - Criar uma sub-rede
 - Criar um endereço IP público
-- Criar um grupo de segurança de rede e uma regra de entrada SSH
+- Criar um grupo de segurança de rede e uma regra de entrada SSH e HTTP para acessar a app
 - Criar uma placa de adaptador de rede virtual
 - Conectar o grupo de segurança de rede ao adaptador de rede
 - Criar uma conta de armazenamento para diagnóstico de inicialização
