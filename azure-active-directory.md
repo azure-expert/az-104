@@ -32,6 +32,14 @@ O Microsoft Azure e um servico de nuvem que fornece muitos servicos integrados g
 - o Azure AD vem como um servico gratuito
 - obtenha funcionalidade adicional do Azure AD com uma licenca P1 ou P2.
 
+## Regioes
+- uma regiao representa  uma colecao de datacenters
+- oferece flexibilidade e escala
+- preserva a residencia dos dados
+- selecione regioes proximas dos seus usuarios
+- esteja ciente da disponibilidade da implantacao da regiao
+- existem servicos globais que sao indepdentes de regiao
+- as regioes sao pareadas para alta disponibilidade
 
 
 
