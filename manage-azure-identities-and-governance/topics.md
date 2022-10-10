@@ -13,17 +13,21 @@
 - Provide access to Azure resources by assigning roles at different scopes
 - Interpret access assignments
 
-## Manage Azure subscriptions and governance
+# Manage Azure subscriptions and governance
 - Configure and manage Azure Policy
 - Configure resource locks
 - Apply and manage tags on resources
 - Manage resource groups
-### Manage subscriptions
+## Manage subscriptions
 Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma assinatura.
 
 - somente identidades no azure ad ou em um diretorio confiavel pelo azure ad podem criar uma assinatura.
 - unidade logica dos servicos do azure vinculada a uma conta do azure.
 - limite de seguranca e cobranca.
+
+### Como obter uma subscription (assinatura)
+Os clientes do Enterprise Agreement (EA) fazem um compromisso monetario inicial e consomem servicos ao longo do ano.
+
 
 
 
