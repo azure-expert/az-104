@@ -1,4 +1,4 @@
-## Manage Azure Active Directory (Azure AD) objects 
+# Manage Azure Active Directory (Azure AD) objects 
 - Create users and groups
 - Manage licenses in Azure AD
 - Create administrative units
@@ -8,7 +8,7 @@
 - Manage guest accounts
 - Configure self-service password reset
 
-## Manage access control
+# Manage access control
 - Create custom role-based access control (RBAC) and Azure AD roles
 - Provide access to Azure resources by assigning roles at different scopes
 - Interpret access assignments
@@ -18,6 +18,7 @@
 - Configure resource locks
 - Apply and manage tags on resources
 - Manage resource groups
+
 ## Manage subscriptions
 Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma assinatura.
 
@@ -33,6 +34,36 @@ Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma a
 3- os parceiros podem projetar e implementar sua solucao de nuvem no azure.
 
 4- conta pessoal gratuita - comece imediatamente.
+
+### Uso da subscription
+`FREE` - Inclui 200 dolares de credito por 12 meses de uso.
+`Pay-as-you-Go` - mudam mensalmente
+`CSP` - parceiro que ajuda, pequenas empresas
+`Enterprise` - one agreement, diretamente com a Microsoft.
+`Student` - inclui 100 dolares por 12 meses de uso.
+
+### Criando grupos de recursos
+1- Os recursos so podem existir em um grupo de recursos.
+
+2- os grupos podem ter recursos de varios tipos (servicos) e de muitas regioes diferentes.
+
+3- os grupos nao podem ser renomeados ou aninhados.
+
+4- os bloqueios de recursos  podem impedir alteracoes de recursos.
+
+5- voce pode mover recursos entre grupos.
+
+### Determinando limites de recursos (pode cair na prova)
+- os recursos tem um limite paadrao tambem conhecido como `cota`.
+- util para rastrear o uso atual e planejar o uso futuro.
+- voce pode abrir um caso de suporte gratuito para aumentar os limites aos maximos publicados.
+
+### Hierarquia de recursos do Azure
+- os grupos de gerenciamento fornecem um nivel de escopo acima das assinaturas.
+- direcione politicas e gaste orcamentos em assinaturas e herancas nas hierarquias.
+- implementar relatorios de conformidade e custos por organizacao (negocios/equipe).
+
+
 
 
 
