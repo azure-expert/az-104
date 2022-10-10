@@ -26,8 +26,10 @@ Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma a
 - limite de seguranca e cobranca.
 
 ### Como obter uma subscription (assinatura)
-Os clientes do Enterprise Agreement (EA) fazem um compromisso monetario inicial e consomem servicos ao longo do ano.
-
+1- Os clientes do Enterprise Agreement (EA) fazem um compromisso monetario inicial e consomem servicos ao longo do ano.
+2- os revendedores fornecem uma maneira simples e flexivel de adquirir servicos em nuvem.
+3- os parceiros podem projetar e implementar sua solucao de nuvem no azure.
+4- conta pessoal gratuita - comece imediatamente.
 
 
 
