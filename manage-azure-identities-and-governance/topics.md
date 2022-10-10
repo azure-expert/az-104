@@ -14,10 +14,19 @@
 - Interpret access assignments
 
 # Manage Azure subscriptions and governance
-- Configure and manage Azure Policy
+
+## Configure and manage Azure Policy
+
+### Politica do Azure
+um servico para criar, atribuir e gerenciar politicas.
+
+
+
+```
 - Configure resource locks
 - Apply and manage tags on resources
 - Manage resource groups
+```
 
 ## Manage subscriptions
 Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma assinatura.
@@ -67,6 +76,22 @@ Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma a
 - direcione politicas e gaste orcamentos em assinaturas e herancas nas hierarquias.
 - implementar relatorios de conformidade e custos por organizacao (negocios/equipe).
 
+### Aplicar marcacao de recursos (TAGS)
+1- fornece metadados para seus recursos do azure.
+
+2- organiza logicamente os recursos em taxonomia.
+
+3- consiste em um par nome-valor
+
+4- muito util para acumular informacoes de faturamento.
+
+### Gereciamento de custos
+- os custos sao especificos dos recursos
+- os custos do uso podem variar entre os locais
+- os custos para transferencias de dados de entrada e saida diferem.
+- pre-pagamento com instancias reservadas do azure.
+- use suas licencas locais com o beneficio hibrido do azure
+- otimize com alertas, orcamentos e recomendacoes.
 
 
 
