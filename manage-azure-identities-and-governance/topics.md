@@ -21,3 +21,17 @@
 - Manage subscriptions
 - Manage costs by using alerts, budgets, and recommendations
 - Configure management groups
+
+### Regioes
+- uma regiao represente uma colecao de datacenters
+- oferece flexibilidade e escala
+- preserva a residencia dos dados
+- selecione regioes proximas aos seus usuarios
+- esteja ciente da disponibilidade de implanatacao da regiao
+- existem servicos globais que sao independentes da regiao
+- as regioes sao pareadas para alta disponibilidade
+
+
+
+
+
