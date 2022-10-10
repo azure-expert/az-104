@@ -19,17 +19,34 @@
 - Apply and manage tags on resources
 - Manage resource groups
 - Manage subscriptions
+Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma assinatura.
+
+- somente identidades no azure ad ou em um diretorio confiavel pelo azure ad podem criar uma assinatura.
+- unidade logica dos servicos do azure vinculada a uma conta do azure.
+- limite de seguranca e cobranca.
+
+
+
+
+
+
+
+
 - Manage costs by using alerts, budgets, and recommendations
 - Configure management groups
 
 ### Regioes
+Existem em todo o mundo mais de 60 regiaoes representando 140 paises com o provedor do Azure.
+
 - uma regiao represente uma colecao de datacenters
 - oferece flexibilidade e escala
 - preserva a residencia dos dados
 - selecione regioes proximas aos seus usuarios
 - esteja ciente da disponibilidade de implanatacao da regiao
-- existem servicos globais que sao independentes da regiao
-- as regioes sao pareadas para alta disponibilidade
+- existem servicos globais que sao independentes da regiao (Active Directory)
+- as regioes sao pareadas para alta disponibilidade (todas as regioes tem os pares)
+
+
 
 
 
