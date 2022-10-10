@@ -37,9 +37,13 @@ Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma a
 
 ### Uso da subscription
 `FREE` - Inclui 200 dolares de credito por 12 meses de uso.
+
 `Pay-as-you-Go` - mudam mensalmente
+
 `CSP` - parceiro que ajuda, pequenas empresas
+
 `Enterprise` - one agreement, diretamente com a Microsoft.
+
 `Student` - inclui 100 dolares por 12 meses de uso.
 
 ### Criando grupos de recursos
