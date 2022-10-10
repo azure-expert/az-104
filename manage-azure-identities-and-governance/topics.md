@@ -18,7 +18,7 @@
 - Configure resource locks
 - Apply and manage tags on resources
 - Manage resource groups
-- Manage subscriptions
+### Manage subscriptions
 Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma assinatura.
 
 - somente identidades no azure ad ou em um diretorio confiavel pelo azure ad podem criar uma assinatura.
