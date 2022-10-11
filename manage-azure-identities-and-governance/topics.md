@@ -11,9 +11,9 @@
 
 # Manage access control
 
-## Create custom role-based access control (RBAC) and Azure AD roles
-## Provide access to Azure resources by assigning roles at different scopes
-## Interpret access assignments
+- Create custom role-based access control (RBAC) and Azure AD roles
+- Provide access to Azure resources by assigning roles at different scopes
+- Interpret access assignments
 
 # Manage Azure subscriptions and governance
 
