@@ -23,9 +23,9 @@ Fornece gerenciamento de acesso refinado de recursos no Azure.
 - conceda apenas a quantidade de acesso aos usuarios que eles precisam para executar suas tarefas.
 
 ## Definicao de funcao
-**Onwer**: aquele que consegue fazer de tudo, dar permissao para outras pessoas.
-**contributor**: aquele que consegue fazer de tudo mas nao da permissao.
-**reader**: apenas consulta, nem da permissao, nem nada.
+- **Onwer**: aquele que consegue fazer de tudo, dar permissao para outras pessoas.
+- **contributor**: aquele que consegue fazer de tudo mas nao da permissao.
+- **reader**: apenas consulta, nem da permissao, nem nada.
 
 
 
