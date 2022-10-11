@@ -15,6 +15,24 @@
 - Provide access to Azure resources by assigning roles at different scopes
 - Interpret access assignments
 
+## Controle de Acesso Baseado em Funcao
+Fornece gerenciamento de acesso refinado de recursos no Azure.
+
+- criado no Azure resource manager.
+- separa tarefas dentro da sua equipe.
+- conceda apenas a quantidade de acesso aos usuarios que eles precisam para executar suas tarefas.
+
+## Definicao de funcao
+**Onwer**: aquele que consegue fazer de tudo, dar permissao para outras pessoas.
+**contributor**: aquele que consegue fazer de tudo mas nao da permissao.
+**reader**: apenas consulta, nem da permissao, nem nada.
+
+
+
+
+
+
+
 # Manage Azure subscriptions and governance
 
 - Configure and manage Azure Policy
@@ -41,6 +59,25 @@ Casos de uso:
 - **exigir tag e seu valor** (aplica um tag obrigatoria e seu valor).
 - **o backup do azure deve estar habilitado para maquinas virtuais** (audite se o servico de backup do azure estiver habilitado para todas as maquinas virtuais).
 
+## Implementando Politicas no Azure
+1- escolher a definicao de politica
+
+2- criar definicoes de iniciativa
+
+3- escopo da definicao da iniciativa
+
+4- exibir resultados da avaliacao da politica.
+
+## Definicoes de Politica
+- existem muitas definicoes de politica disponiveis no azure.
+- voce pode importar politicas do github.
+- as definicoes de politica tem formato JSON especifico.
+- voce pode criar definicoes de politicas personalizadas.
+
+## Definicoes de Iniciativa
+- definicoes de politica de grupo
+- incluir uma ou mais politicas
+- requer planejamento
 
 
 
