@@ -17,13 +17,13 @@
 
 # Manage Azure subscriptions and governance
 
-## Configure and manage Azure Policy
-## Configure resource locks
-## Apply and manage tags on resources
-## Manage resource groups
-## Manage costs by using alerts, budgets, and recommendations
-## Configure management groups
-## Manage subscriptions
+- Configure and manage Azure Policy
+- Configure resource locks
+- Apply and manage tags on resources
+- Manage resource groups
+- Manage costs by using alerts, budgets, and recommendations
+- Configure management groups
+- Manage subscriptions
 
 
 
