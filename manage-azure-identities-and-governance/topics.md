@@ -35,9 +35,11 @@ Vantagens:
 - remediacao
 
 Casos de uso:
-- tipos de recursos permitidos (especifique os tipos de recursos que sua organizacao pode implantar)
-- SKUs de maquina virtual permitidos (especifique um conjunto de SKUs de maquina virtual que sua organizacao pode implantar).
-- 
+- **tipos de recursos permitidos** (especifique os tipos de recursos que sua organizacao pode implantar)
+- **SKUs de maquina virtual permitidos** (especifique um conjunto de SKUs de maquina virtual que sua organizacao pode implantar).
+- **locais permitidos** (restrinja os locais que sua organizacao pode especificar ao implantar recursos).
+- **exigir tag e seu valor** (aplica um tag obrigatoria e seu valor).
+- **o backup do azure deve estar habilitado para maquinas virtuais** (audite se o servico de backup do azure estiver habilitado para todas as maquinas virtuais).
 
 
 
