@@ -27,6 +27,25 @@ Fornece gerenciamento de acesso refinado de recursos no Azure.
 - **contributor**: aquele que consegue fazer de tudo mas nao da permissao.
 - **reader**: apenas consulta, nem da permissao, nem nada.
 
+## Atribuicao de funcao
+Processo de associacao de uma definicao de funcao a um usuario, grupo ou entidade de servico em um escopo com a finalidade de conceder acesso.
+
+## Funcoes do RBAC do Azure vs Funcoes do Azure
+As funcoes RBAC fornecem gerenciamento de acesso refinado.
+
+Azure RBAC
+- gerenciar o acesso aos recursos do Azure
+- o escopo pode ser especificado em varios niveis
+- as informacoes de funcao podem ser acessadas no portal do Azure, Azure CLI,  Azure Powershell, Azure Resource Manager templaes, REST API.
+
+Azure AD
+- gerenciar o acesso a objetos do Azure AD
+- o escopo esta a nivel do locatario
+- as informacoes de funcao podem ser acessadas no portal do Azure, Microsoft 365 admin portal, Microsoft Graph, Azure Active Directory, PowerShell for Graph.
+
+
+
+
 
 
 
