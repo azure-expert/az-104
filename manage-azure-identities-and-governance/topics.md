@@ -25,6 +25,50 @@
 - Configure management groups
 - Manage subscriptions
 
+## Politica do Azure
+- um servico para criar, atribuir e gerenciar politicas.
+- executa avaliacoes e verificacoes de recursos nao compativeis.
+
+Vantagens:
+- execucao e conformidade
+- aplique politicas em escala
+- remediacao
+
+Casos de uso:
+- tipos de recursos permitidos (especifique os tipos de recursos que sua organizacao pode implantar)
+- SKUs de maquina virtual permitidos (especifique um conjunto de SKUs de maquina virtual que sua organizacao pode implantar).
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Iniciando com subscriptions
