@@ -1,34 +1,34 @@
 # Manage Azure Active Directory (Azure AD) objects 
-- Create users and groups
-- Manage licenses in Azure AD
-- Create administrative units
-- Manage user and group properties
-- Manage device settings and device identity
-- Perform bulk updates
-- Manage guest accounts
-- Configure self-service password reset
+
+## Create users and groups
+## Manage licenses in Azure AD
+## Create administrative units
+## Manage user and group properties
+## Manage device settings and device identity
+## Perform bulk updates
+## Manage guest accounts
+## Configure self-service password reset
 
 # Manage access control
-- Create custom role-based access control (RBAC) and Azure AD roles
-- Provide access to Azure resources by assigning roles at different scopes
-- Interpret access assignments
+
+## Create custom role-based access control (RBAC) and Azure AD roles
+## Provide access to Azure resources by assigning roles at different scopes
+## Interpret access assignments
 
 # Manage Azure subscriptions and governance
 
 ## Configure and manage Azure Policy
-
-### Politica do Azure
-um servico para criar, atribuir e gerenciar politicas.
-
-
-
-```
-- Configure resource locks
-- Apply and manage tags on resources
-- Manage resource groups
-```
-
+## Configure resource locks
+## Apply and manage tags on resources
+## Manage resource groups
+## Manage costs by using alerts, budgets, and recommendations
+## Configure management groups
 ## Manage subscriptions
+
+
+
+### Iniciando com subscriptions
+
 Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma assinatura.
 
 - somente identidades no azure ad ou em um diretorio confiavel pelo azure ad podem criar uma assinatura.
@@ -93,6 +93,8 @@ Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma a
 - use suas licencas locais com o beneficio hibrido do azure
 - otimize com alertas, orcamentos e recomendacoes.
 
+### Politica do Azure
+um servico para criar, atribuir e gerenciar politicas.
 
 
 
@@ -101,8 +103,8 @@ Para se criar recursos dentro do Azure, precisamos de grupos de recursos e uma a
 
 
 
-- Manage costs by using alerts, budgets, and recommendations
-- Configure management groups
+
+
 
 ### Regioes
 Existem em todo o mundo mais de 60 regiaoes representando 140 paises com o provedor do Azure.
