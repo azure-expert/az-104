@@ -3,3 +3,4 @@
 id_rsa
 terraform.tfstate
 terraform.tfstate.backup
+learn-terraform-azure\*
