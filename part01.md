@@ -7,4 +7,4 @@ o Azure AD é um serviço de gerenciamento de identidade e diretório baseado em
 
 existe um diagrama que é bem usado para representar essa parte da implementação do Azure AD usando alguns protocolos.
 
-![azure](https://github.com/azure-expert/az-104/tree/main/images/azure1.png)
+![azure](https://github.com/azure-expert/az-104/blob/main/images/azure1.png)
