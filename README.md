@@ -14,10 +14,10 @@ A versão em inglês deste exame foi atualizada em 5 de maio de 2022. Baixe o gu
 Pontuação de aprovação: 700.
 
 ## Guia de Estudos Azure
-[Aqui](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY) você encontra o guia de estudos da prova AZ-900.
+[Aqui](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy) você encontra o guia de estudos da prova AZ-104.
 
 ## Perguntas de Amostra Gratuitas
-Consulte algumas perguntas para facilitar seus entendimentos sobre o Azure. Acesse [aqui](https://docs.microsoft.com/pt-br/certifications/resources/az-900-sample-questions?azure-portal=true) o guia de perguntas com exemplos reais.
+Consulte algumas perguntas para facilitar seus entendimentos sobre o Azure. Acesse [aqui](https://learn.microsoft.com/pt-br/certifications/resources/az-104-sample-questions?azure-portal=true) o guia de perguntas com exemplos reais.
 
 ## Referências
 Para que fosse póssível esse estudo, eu me certifiquei de conteúdos diretamente da Microsoft, e de outros canais e fontes.
