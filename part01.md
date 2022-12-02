@@ -29,7 +29,7 @@ existe um diagrama que é bem usado para representar essa parte da implementaç�
 ## comparar o active directory domain com o azure ad
 o AD DS (active directory domain) é a implantação tradicional do active directory beaseado no windows server em um servidor virtual.
 
-OBS: embora seja possível implantar e gerenciar active directory em máquinas virtuais do azure, recomenda-se usar o azure directory.
+*OBS: embora seja possível implantar e gerenciar active directory em máquinas virtuais do azure, recomenda-se usar o azure directory.*
 
 ### algumas diferenças que são relevantes entre os dois modelos de identidade azure ad vs active directory
 - solução de identidade - o AD DS (active directory domain service) é uma solução de diretório, enquanto o azure ad é uma solução de identidade completa.
