@@ -12,4 +12,6 @@ existe um diagrama que é bem usado para representar essa parte da implementaç�
 ## tópicos importantes sobre os recursos do azure AD
 - **acesso de SSO** - o azure AD fornece autenticação via SSO para aplicativos web na nuvem.
 - **suporte geral de dispositivos** - o azure ad funciona em diversos tipos de dispositivos, seja android, macos, windows.
+- **acesso remoto seguro** - pode fornecer o acesso seguro como MFA, politicas de seguranca e outras iniciativas.
+- **extensibilidade de nuvem** - o azure ad pode ser extendido para a nuvem, para ajudar na parte de usuarios, grupos de acesso e senhas.
 - 
