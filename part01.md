@@ -18,7 +18,7 @@ existe um diagrama que é bem usado para representar essa parte da implementaç�
 - **suporte de autoatendimento** - o azure ad pode delegar atividades para outros funcionarios, com maiores privilegios de acesso.
 
 # descrever os conceitos do azure active directory
-veja alguns componentes que são bem relevantes para entender os conceitos do azure ad.
+## veja alguns componentes que são bem relevantes para entender os conceitos do azure ad.
 
 - **identidade** - objeto que pode ser autenticado, pode ser um usuário e senha, pode ser aplicativos, ou serviços.
 - **conta** - uma conta é uma identidade que tem dados associados. para ter uma conta precisa antes de uma identidade válida.
