@@ -3,7 +3,6 @@ O exame [Azure Administrator](https://docs.microsoft.com/pt-br/certifications/ex
 
 <img src="https://github.com/azure-expert/az-104/blob/main/images/azure11.png" width="200" height="200"/>
 
-
 # Habilidades medidas
 A versão em inglês deste exame foi atualizada em 5 de maio de 2022. Baixe o guia de estudo na caixa "Dica" anterior para obter mais detalhes sobre as habilidades medidas neste exame.
 - Gerenciar identidades e governança do Azure (15% a 20%)
