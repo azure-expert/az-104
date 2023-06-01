@@ -1,8 +1,7 @@
-## Azure Administrator - AZ 104
-
+# Microsoft Certified: Azure Administrator Associate 
 O exame [Azure Administrator](https://docs.microsoft.com/pt-br/certifications/exams/az-104) este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar identidades e governança do Azure; implantar e gerenciar armazenamento; implantar e gerenciar recursos de computação do Azure; configurar e gerenciar redes virtuais; e monitorar e fazer backup de recursos do Azure.abe
 
-## Habilidades medidas
+# Habilidades medidas
 A versão em inglês deste exame foi atualizada em 5 de maio de 2022. Baixe o guia de estudo na caixa "Dica" anterior para obter mais detalhes sobre as habilidades medidas neste exame.
 - Gerenciar identidades e governança do Azure (15% a 20%)
 - Implementar e gerenciar armazenamento (15-20%)
@@ -27,7 +26,6 @@ Para que fosse póssível esse estudo, eu me certifiquei de conteúdos diretamen
 - Documentação oficial da [Microsoft](https://docs.microsoft.com/pt-br/certifications/exams/az-900) para o Azure AZ-900.
 - Simulado Online Gratuito com o canal da [Coding Night](https://www.youtube.com/watch?v=5ZZq54iQkS0&ab_channel=CodingNight).
 - Curso Oficial Microsoft AZ-900. Acesso [aqui](https://www.kasolution.com.br/Home).
-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
