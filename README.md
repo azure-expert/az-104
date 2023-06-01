@@ -1,7 +1,8 @@
 # Microsoft Certified: Azure Administrator Associate 
 O exame [Azure Administrator](https://docs.microsoft.com/pt-br/certifications/exams/az-104) este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar identidades e governança do Azure; implantar e gerenciar armazenamento; implantar e gerenciar recursos de computação do Azure; configurar e gerenciar redes virtuais; e monitorar e fazer backup de recursos do Azure.abe
 
-<img src="https://github.com/Terraform-Tutorials/learn-terraform-associate-exam/blob/main/terraform-objectives/images/terra10.png" width="200" height="200"/>
+<img src="https://github.com/azure-expert/az-104/blob/main/images/azure11.png" width="200" height="200"/>
+
 
 # Habilidades medidas
 A versão em inglês deste exame foi atualizada em 5 de maio de 2022. Baixe o guia de estudo na caixa "Dica" anterior para obter mais detalhes sobre as habilidades medidas neste exame.
